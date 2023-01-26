@@ -1,0 +1,968 @@
+{
+	"AssetInfoVersion": 2,
+	"ShaderCodeToAssets": [
+		{
+			"ShaderMapHash": "C10B1872B5E076028138AC2B98C509E5FD3D09D3",
+			"Assets": [
+				"/ControlRig/Controls/ControlRigGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "6872A292CD1FCEE6F2AEDA625E142B0EB5D50830",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TranslucentTransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E2581DD4FFA4BBAEAB6605E648992B43FEBF49EC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugEditorMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "280C82548975F147E480AB9E17129B4E5C6DE4EB",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Hand/Oculus/M_Hand_Oculus_White_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "BDF7FE67FEB15E2BBA2A714EE863A5C82D8F1E5D",
+			"Assets": [
+				"/GoogleARCore/M_SceneDepthOcclusion"
+			]
+		},
+		{
+			"ShaderMapHash": "27B13EF0C2768CCDC50D741F240AE4597BB2D859",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Drawer/M_Demoassets_Cubboard",
+				"/Game/AFCore/Examples/Materials/M_Demoassets_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "A9816FDB888711DDE18B332FC9F6693AA96AF80E",
+			"Assets": [
+				"/ARUtilities/Materials/M_PassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "2B8275B53A3CAAB34A7AF03642C3C2E238F04F0F",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Plant/MI_Demoassets_Plant"
+			]
+		},
+		{
+			"ShaderMapHash": "9F02DC46C9DD0DAC6E5A74E3BFED8B2D79429007",
+			"Assets": [
+				"/ARUtilities/Materials/M_ScreenSpacePassthroughCamera"
+			]
+		},
+		{
+			"ShaderMapHash": "945CE0D5BC5B5B457367ED433D34A88D7261F22E",
+			"Assets": [
+				"/OpenXR/Devices/M_XRController"
+			]
+		},
+		{
+			"ShaderMapHash": "420772A68F77E534B5D1D6C1B623761B2C5C7871",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Highlight/MI_Chair_Inst1"
+			]
+		},
+		{
+			"ShaderMapHash": "39B7BCBEB28293359B95C7408928AE0F86063B28",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent_OneSided",
+				"/Engine/EngineMaterials/Widget3DPassThrough"
+			]
+		},
+		{
+			"ShaderMapHash": "69A1A7BB553DFF583822CA8B80E99C6ED29A8DD8",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "AED332C462C9CA440A6026C64D5FCF5E111B2C74",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/M_Bomb_Fuse_Dynamic"
+			]
+		},
+		{
+			"ShaderMapHash": "18A64178F7C4147549D7DC9E194E5273F2C93309",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Gym/M_Demoassets_Barbell"
+			]
+		},
+		{
+			"ShaderMapHash": "233E1ACE9EE0789FD6CDF30BA833133BDF41C6A1",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Highlight/MI_Chair_Inst"
+			]
+		},
+		{
+			"ShaderMapHash": "0CA9F16EEE7671936A1C01327CE0EE954385AC2F",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked_OneSided"
+			]
+		},
+		{
+			"ShaderMapHash": "2D2E1ABEF1248008CBF47ACA99BDC3BF4D74D953",
+			"Assets": [
+				"/HDRIBackdrop/Materials/HDRI_Projection"
+			]
+		},
+		{
+			"ShaderMapHash": "9D15D3F1FF9B0DB1800C9948C8052A482F829E28",
+			"Assets": [
+				"/Game/AFCore/Meshes/UI/Teleporter/M_Teleporter_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "2BD9389A22D2148A5512BD6C4FAAC262D970088D",
+			"Assets": [
+				"/Game/AFCore/Meshes/UI/Teleporter/M_TeleportMaterial_New"
+			]
+		},
+		{
+			"ShaderMapHash": "4939C47A0F95195E9A71E3011EEAED9F6EC5C0B5",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_Abduction_Beam"
+			]
+		},
+		{
+			"ShaderMapHash": "6A523793FE5C7B490310B95C26E20FE99A1D9E10",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Avatar/MI_UE4Man_ChestLogo"
+			]
+		},
+		{
+			"ShaderMapHash": "19DDBADA473C05CE0BDA054FC1587E3CFAE68A70",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UnrealButton/M_Button_Logo"
+			]
+		},
+		{
+			"ShaderMapHash": "4E7CF58D6627410B14D9CB4B8FA574586B6281EB",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Lightbulb/M_Light_Bulb_Base"
+			]
+		},
+		{
+			"ShaderMapHash": "EDC0D1B987114116F644C4968582DAB55747F92C",
+			"Assets": [
+				"/AnimationSharing/AnimSharingBase"
+			]
+		},
+		{
+			"ShaderMapHash": "9D57DE76B9401EADAA4607BCF31CBAF31D50B746",
+			"Assets": [
+				"/Engine/EngineVolumetrics/LightBeam/Materials/M_EV_Lightbeam_Master_01"
+			]
+		},
+		{
+			"ShaderMapHash": "4D6BA7B33D5E463646B998D4D36572487DCA8E64",
+			"Assets": [
+				"/Game/AFCore/Materials/CircularProgress/M_CircularProgress"
+			]
+		},
+		{
+			"ShaderMapHash": "23E9632513B4E4A19CBC5EB9534109DB0CFCF7E3",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Outline_Rounded"
+			]
+		},
+		{
+			"ShaderMapHash": "6B26FB6DCB270E9312A4FE7756E4493EB4DB8BA1",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Mirror/M_Mirror_SceneCapture"
+			]
+		},
+		{
+			"ShaderMapHash": "8500F6D005BF37B60330A25CC049BF393EA969B1",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Opaque"
+			]
+		},
+		{
+			"ShaderMapHash": "86ACF1ACD02EA3ACBC83ECC90625569ECF8958AF",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Chair/M_Chair"
+			]
+		},
+		{
+			"ShaderMapHash": "A8BE66FFFB59D15405CE1509E6AFD5A46D75C211",
+			"Assets": [
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "3BCFCBD61E0C04E9754A1DF5D0220DE2652FF68F",
+			"Assets": [
+				"/Game/AFCore/Meshes/UI/Laser/M_SplineLine_Solid"
+			]
+		},
+		{
+			"ShaderMapHash": "63C605AF65365549B91B5CB895DCAD9C57D9661C",
+			"Assets": [
+				"/OculusVR/Materials/OculusMR_ChromaKey"
+			]
+		},
+		{
+			"ShaderMapHash": "BD8E9A6EDF45D3AC9004E2190C3FB6ACC09FEA8A",
+			"Assets": [
+				"/Game/AFCore/Materials/Highlight/M_Highlight_Outline_Mesh"
+			]
+		},
+		{
+			"ShaderMapHash": "7800C88D6457F7AFC8BA7F0E7CDFAC6F99D06571",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Hand/Epic/M_Hand_Epic"
+			]
+		},
+		{
+			"ShaderMapHash": "9934839F2BAE3AB128CD4CE751EAC5A485755F3C",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_UELogo"
+			]
+		},
+		{
+			"ShaderMapHash": "32C2D85686AB5BBCA86239C4B721991DA1E702C7",
+			"Assets": [
+				"/Game/AFCore/Materials/Level/Mat_HumanCodeableDecal"
+			]
+		},
+		{
+			"ShaderMapHash": "A250730E5FB9BC56C2323A6DD65B46254A42B720",
+			"Assets": [
+				"/ARUtilities/Materials/M_DepthColoration"
+			]
+		},
+		{
+			"ShaderMapHash": "9B55348317B90237EA49DF3C347BBE7FB810D9D6",
+			"Assets": [
+				"/Game/AFCore/Materials/Basecolors/M_Simple_White"
+			]
+		},
+		{
+			"ShaderMapHash": "10722D5BBB5035E5BC330AA5B67D6C957ABB517A",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/HandScanner/M_Handscanner"
+			]
+		},
+		{
+			"ShaderMapHash": "69553AE41F45D09FEDE52AD869752EBD45E8DFF3",
+			"Assets": [
+				"/Game/AFCore/Meshes/Util/Anchor/M_Anchor",
+				"/OculusVR/Materials/OculusMR_OpaqueColoredMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "60FD3A20A9A3EBD47319A6DAF195951C7226221E",
+			"Assets": [
+				"/Game/AFCore/Materials/ShadowObject/M_Ghost"
+			]
+		},
+		{
+			"ShaderMapHash": "9DDDB32494D33EFAE61700F788ABD6AB5801EABF",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_explosion_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "1FA1061D6D61232566F7C3D5BD982980A70F635B",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_small_bits_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B8F00F3D257FE5D48C72C9233DB3088BF7EF3AF6",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_radial_ramp"
+			]
+		},
+		{
+			"ShaderMapHash": "2CF553E8FFD4B7E2E90F5BE7FEE77618DC2E4B38",
+			"Assets": [
+				"/ARUtilities/Materials/MI_PassthroughCameraExternalTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "B3191E6AF5E1DCFE9B23E0B307745DA6F09AA6E9",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_Spark_Basic"
+			]
+		},
+		{
+			"ShaderMapHash": "73CB43A9E006667E2E6FE56B049F99C1B1D8B8F8",
+			"Assets": [
+				"/Game/AFCore/Meshes/Enviroment/Skysphere/M_Skysphere_SingleColor"
+			]
+		},
+		{
+			"ShaderMapHash": "E05E33DE76306C46759AB522D46C407E68451A0A",
+			"Assets": [
+				"/Engine/EngineMaterials/GizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F4BAD646DC6F5229718BAF3E0FE630325779E218",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/DebugMeshMaterial",
+				"/Engine/EngineDebugMaterials/M_SimpleUnlitTranslucent"
+			]
+		},
+		{
+			"ShaderMapHash": "9BF170A788309E26D7E0E1ED7155ECB935002B7F",
+			"Assets": [
+				"/Engine/EngineMaterials/RemoveSurfaceMaterial",
+				"/Engine/EditorMaterials/PreviewShadowIndicatorMaterial",
+				"/Engine/MapTemplates/Sky/M_BlackBackground"
+			]
+		},
+		{
+			"ShaderMapHash": "4910EB0DAE1F061D9116C1CAD9DFB38C3A005E24",
+			"Assets": [
+				"/OculusVR/Materials/PokeAHoleMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3086058E5F0C3D1F38D1AE87C2FB74BA81906012",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/RemoteControl/M_RemoteControl"
+			]
+		},
+		{
+			"ShaderMapHash": "3634971A671183285D8442E843F89A1DB4E06FC3",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_Impact_Ripple"
+			]
+		},
+		{
+			"ShaderMapHash": "7396E0DAA3085D803EE71179546D8209287214C7",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_Particle_Ribbon"
+			]
+		},
+		{
+			"ShaderMapHash": "B8FBE666C6C4FB881CA872011EC57937FB6451E0",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_Energy_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "2F5CA6BEE0D74263F655B56B3434C60459E83FAA",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Rounded/M_Circle_Fill"
+			]
+		},
+		{
+			"ShaderMapHash": "10C3824A19B4D5C10DB53EBD602FC3757FEB0C65",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "FB48315CB4E3BE4B6F20112CD2F25CBAE3161A89",
+			"Assets": [
+				"/Game/AFCore/Materials/Pointer/M_Pointer"
+			]
+		},
+		{
+			"ShaderMapHash": "C71C38C4C984A05FAD6F9C64DBA5555E36576648",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Avatar/M_UE4Man_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "063BADAD1466220168204F2CEE774261E006E8E2",
+			"Assets": [
+				"/HairStrands/Materials/HairMeshesDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5611C49243254F7E2BBC640D96C5FF670682026B",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Controller/ValveIndex/M_Controller_Index"
+			]
+		},
+		{
+			"ShaderMapHash": "F479DCB4910B48C69042915BC993B68D756EEA02",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Gradient/M_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "07CD7F38032DBC307D2DE59A37E68214AD1C1851",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_CameraProjection"
+			]
+		},
+		{
+			"ShaderMapHash": "0304506E66D606AF49D84F282AA04F93C56456BE",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Battery/M_Battery"
+			]
+		},
+		{
+			"ShaderMapHash": "FA0EF3A1C51DF72145DD961AAE98D5EEA1175D58",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/m_flare_03"
+			]
+		},
+		{
+			"ShaderMapHash": "0216AEE29CA160EE447253A13519F05F114D1A84",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Avatar/M_Framework_HMD_Futuristic"
+			]
+		},
+		{
+			"ShaderMapHash": "F5872CE66B974781612CB5E8169891C7285F9503",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Hand/Glove/M_Glove_Red"
+			]
+		},
+		{
+			"ShaderMapHash": "2F258F389D3A5AC088BB7B348004EBD3FDD6A52A",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "5C45696BB0E2BC2514B02D6079601D5053E9B71B",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Widget/M_Widget"
+			]
+		},
+		{
+			"ShaderMapHash": "EDADEF7E698C77EEB6A7C3D65CA09B0E8A9AB09B",
+			"Assets": [
+				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "A82D724D7F0A7D53421211C9D3DDC20AB7128B75",
+			"Assets": [
+				"/Game/AFCore/Materials/Video/M_Video"
+			]
+		},
+		{
+			"ShaderMapHash": "CE586FC18C78C071EDFFE4EB578837C3AE348592",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_Burst"
+			]
+		},
+		{
+			"ShaderMapHash": "09B1C79B8FADA4EE853766718E21DA547220769B",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_smoke_subUV"
+			]
+		},
+		{
+			"ShaderMapHash": "80C6B36021077C13345BD2EB58019DB7050A941E",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Lamps/M_Lamp"
+			]
+		},
+		{
+			"ShaderMapHash": "4CE36ACCF3707C656FD9B34E1559C0E05C69A224",
+			"Assets": [
+				"/OpenXR/Devices/ValveIndex/Right/MI_right_ValveIndex"
+			]
+		},
+		{
+			"ShaderMapHash": "0F5A4F9E5F7064E174B669E580CE78BEBB200846",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_Tile_2"
+			]
+		},
+		{
+			"ShaderMapHash": "64EA2C35AA9D6ABEFCED5275C90E2ADA96AFAB9E",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_UFO_Main"
+			]
+		},
+		{
+			"ShaderMapHash": "6C5180B506D2F2A607144C634E30DD6A18933577",
+			"Assets": [
+				"/ARUtilities/Materials/MI_ScreenSpacePassthroughCameraExternalTexture"
+			]
+		},
+		{
+			"ShaderMapHash": "D53D29820A661AD5741BA8DE31FBE0707DE57FB9",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Levers/M_Metal_Lighter"
+			]
+		},
+		{
+			"ShaderMapHash": "836D0AEAB12E45EEF4498B5041F2196A95303920",
+			"Assets": [
+				"/Engine/EngineMaterials/Widget3DPassThrough_Masked"
+			]
+		},
+		{
+			"ShaderMapHash": "BBB6DDC5129360E137962CE37EFF139CF99D1279",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_Tile"
+			]
+		},
+		{
+			"ShaderMapHash": "7591F749FCE324D4069FCF24A3D46B6DCC1392FB",
+			"Assets": [
+				"/HDRIBackdrop/Materials/MI_HDRI_CenterProjection"
+			]
+		},
+		{
+			"ShaderMapHash": "8EDA03F464BD68F2FB065F7EECFEB09D0E3A3830",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Corner_Rounded"
+			]
+		},
+		{
+			"ShaderMapHash": "3466F411FC61728B9A78E945D7162B4DE92ED5F9",
+			"Assets": [
+				"/Paper2D/OpaqueUnlitSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0B66552EC8C2CEDACD7BBA703A62773455807131",
+			"Assets": [
+				"/Game/AFCore/Materials/Highlight/M_Highlight_Outline_PostProcess_Color"
+			]
+		},
+		{
+			"ShaderMapHash": "0E722AEAEB864EB153090598CB1F81C2496AFEB2",
+			"Assets": [
+				"/HairStrands/Materials/HairCardsDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "3E65A55635F8A7E5597D36AA38070E0D30323D88",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultTextMaterialOpaque"
+			]
+		},
+		{
+			"ShaderMapHash": "68956F21CF77BCB0C0F012F71A1E092D1B933F95",
+			"Assets": [
+				"/OpenXR/Devices/OculusTouch_v3/MI_OculusTouch_v3"
+			]
+		},
+		{
+			"ShaderMapHash": "2D7956CAD8C0232E287F3D90F1616FB6AA25310B",
+			"Assets": [
+				"/Game/AFCore/Font/M_Font_Translucent"
+			]
+		},
+		{
+			"ShaderMapHash": "24FCEF714647D7D124A7EBB1292FBA8E80444BA4",
+			"Assets": [
+				"/HairStrands/Materials/HairDefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "CF2975C787DED3E8E96A379C04E4F9FD511BCCF6",
+			"Assets": [
+				"/Engine/EngineMaterials/WorldGridMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "B1A041A06F183B4F4C5949F5E5C0199BA8B85279",
+			"Assets": [
+				"/Engine/EditorMaterials/Camera/CineMat",
+				"/Game/AFCore/Materials/Level/M_DarkGrey"
+			]
+		},
+		{
+			"ShaderMapHash": "0F50619427E201D80545270BBABBB4A45C07DF19",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Xray"
+			]
+		},
+		{
+			"ShaderMapHash": "BA06CDB96ABBD46E101DE94D5A67EAA42211AEFD",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/Main"
+			]
+		},
+		{
+			"ShaderMapHash": "EFFB314F8F878ED4FF8FC806819BAA793B56B3AB",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultLightFunctionMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "F312B18A006D2B122CF4999496AB2E3543CE4A22",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "15865123BAEEC9CDB3F9AE9736BAF9B61DB87A08",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveTexturedMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "A3BD40EF96F371ED942FBD250086451D5DB3161D",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultPostProcessMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "D78F66CD6B804883C36809D01849E1161A9DD7CC",
+			"Assets": [
+				"/Engine/EngineMaterials/DefaultDeferredDecalMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "E904CAABF28E9F8714785CE559D3943773E62AD1",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Outline_Sharp"
+			]
+		},
+		{
+			"ShaderMapHash": "BF79FFE341B7C69112D875080B4CC9CC21F1B7E8",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Outline_Edged"
+			]
+		},
+		{
+			"ShaderMapHash": "C9F463FBAE6A3EB8F0BD9D86000F8A7DC7FCA3DE",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Corner_Edged"
+			]
+		},
+		{
+			"ShaderMapHash": "6DC8B579B09E281DDC368D44D5AE9CF4095F18BE",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/UI/M_UIMaster"
+			]
+		},
+		{
+			"ShaderMapHash": "B710E65DDAFCDD8EE5563645D222D17B56790073",
+			"Assets": [
+				"/Engine/EngineSky/VolumetricClouds/m_SimpleVolumetricCloud"
+			]
+		},
+		{
+			"ShaderMapHash": "C59BD6D89756F524854471CD1A3EF357C142DC4B",
+			"Assets": [
+				"/Engine/VREditor/TransformGizmo/TransformGizmoMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7C54F70C9C7C5A150E70B1114D00612F0401A4E7",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Controller/Vive/M_VivePreControllerMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "8D2CD78819CA664380928A03B152209D4E13A423",
+			"Assets": [
+				"/Engine/EditorMaterials/WorldPartition/WorldPartitionSpatialHashGridPreviewMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "502E1B5AC95FB25F7DE418F1F4AB68B8387EC3EA",
+			"Assets": [
+				"/HairStrands/Materials/HairDebugMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "C41C658970503365FA12E47A0558B05F8D636969",
+			"Assets": [
+				"/Engine/EngineMaterials/PhAT_JointLimitMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "73AE45A1DAE98D1BF0614BD482320F523E163ADB",
+			"Assets": [
+				"/ControlRig/M_Manip"
+			]
+		},
+		{
+			"ShaderMapHash": "D4EC8E334486F8BE9A5F86420308923018764C04",
+			"Assets": [
+				"/Paper2D/DefaultSpriteMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "0C4FC40DEBC839B0E3DDBB3A82BAC5A083957280",
+			"Assets": [
+				"/WebBrowserWidget/WebTexture_M"
+			]
+		},
+		{
+			"ShaderMapHash": "9EBBACCB3B8B306DF3A92D0EAE56364C6513CDBC",
+			"Assets": [
+				"/Game/AFCore/Meshes/UI/Laser/M_SplineLine"
+			]
+		},
+		{
+			"ShaderMapHash": "002DE876C58A0A57BEF35D69FB78205729F9FDB5",
+			"Assets": [
+				"/WebBrowserWidget/WebTexture_TM"
+			]
+		},
+		{
+			"ShaderMapHash": "61DCCB03C3A619C69AED03A01D4DAAE103A598D5",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial",
+				"/Engine/EngineMaterials/FlattenMaterial_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "49D7F0E8DF833C93D57384018AFBD49E69455A1A",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
+			"ShaderMapHash": "6AFFF8A9663C3305CF8F9C9CA5AF69BCFF0F7D7F",
+			"Assets": [
+				"/OculusVR/Materials/touchController_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "D060AF3D9AAA704BF629C51BA608874B8BABCC68",
+			"Assets": [
+				"/Engine/EngineMaterials/EmissiveMeshMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "543DB1E2E9DD26C30B95847A34351D3A16F4658B",
+			"Assets": [
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
+				"/Game/AFCore/Meshes/Pawn/Controller/Quest/M_OculusQuest2_Controller"
+			]
+		},
+		{
+			"ShaderMapHash": "3AF3238374194E7C169F92405B2FC435B889045E",
+			"Assets": [
+				"/Engine/EngineMaterials/M_InvalidLightmapSettings"
+			]
+		},
+		{
+			"ShaderMapHash": "2FFC1BB989ADF4D070EB37AF98D0150B8ADD6270",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Hand/Oculus/M_Hand_Ghost"
+			]
+		},
+		{
+			"ShaderMapHash": "1DC3CAC30A98A9800C0E2618DA1C311BA2DEEF7F",
+			"Assets": [
+				"/Engine/EngineMaterials/FlattenMaterial_WS_Normal_VT"
+			]
+		},
+		{
+			"ShaderMapHash": "B3D8C648D2C8D9E75A5C54B648D14E9A22532468",
+			"Assets": [
+				"/Game/AFCore/Meshes/Enviroment/Skysphere/M_Skysphere_Image"
+			]
+		},
+		{
+			"ShaderMapHash": "1DEB1E66F386EBA5980FFDAACEF304DA3820ED4B",
+			"Assets": [
+				"/Game/AFCore/Materials/Highlight/M_Highlight_Outline_PostProcess"
+			]
+		},
+		{
+			"ShaderMapHash": "45434A0797A0C4ACD9F53F4012E7DAD3785BA863",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Shapes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "FDDCF11E04AB4BF9E2FF4A6E803891C3DEB283A2",
+			"Assets": [
+				"/Engine/VREditor/BasicMeshes/M_Floor_01"
+			]
+		},
+		{
+			"ShaderMapHash": "B57664BA532EA1BEB51FD0121E1F9B3825400AE6",
+			"Assets": [
+				"/Game/AFCore/Materials/Ping/M_Ping"
+			]
+		},
+		{
+			"ShaderMapHash": "64BDE0390E1772E37F17570C660D4903382FDB4A",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Controller/Oculus/M_SM_Mesh_OculusControllerMesh"
+			]
+		},
+		{
+			"ShaderMapHash": "8D9508E2FC708DF577A5B6C307877392ED0D2ED2",
+			"Assets": [
+				"/Game/AFCore/Meshes/Pawn/Controller/WMR/M_WMR_Body"
+			]
+		},
+		{
+			"ShaderMapHash": "023BB639D9F70176D2D8541F311A188F0224F5E7",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_Display"
+			]
+		},
+		{
+			"ShaderMapHash": "B6169025CEEF0199851DEB36AC1051F90EBE25C0",
+			"Assets": [
+				"/Engine/EditorMaterials/MatineeCam_mat"
+			]
+		},
+		{
+			"ShaderMapHash": "974C51FF96B646F1DC182A752585C7C5F6CA3C68",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Pixel/M_Pixel_Cube_Particle"
+			]
+		},
+		{
+			"ShaderMapHash": "03E1F1D0B7004112DDBC50E1F6A22E3C83AE0618",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UnrealButton/M_Button"
+			]
+		},
+		{
+			"ShaderMapHash": "AC84122A5B54A9C5B975268ED1D6C05AE0F9F6A4",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_Glow"
+			]
+		},
+		{
+			"ShaderMapHash": "A5CA8CF63586F11B38E98265E61D65E298D5FA35",
+			"Assets": [
+				"/Game/AFCore/Materials/Teleport/M_TeleportGrid"
+			]
+		},
+		{
+			"ShaderMapHash": "B5C47A139C413C6E47A4F35E25835DC05A799821",
+			"Assets": [
+				"/Game/AFCore/Materials/UI/Corners/M_Corner_Sharp"
+			]
+		},
+		{
+			"ShaderMapHash": "1ACE73D169A81619CA3E32DC72960AB1A1979D9F",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Sliders/M_Slider"
+			]
+		},
+		{
+			"ShaderMapHash": "5C1817DCF171EBF87FE1C5D8CA4DC11A4D249943",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UFO/M_Radial_Gradient"
+			]
+		},
+		{
+			"ShaderMapHash": "D7454FCF72C23BE44158F9E2A3DF74C6404E09AB",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Pixel/M_Pixel_Cube"
+			]
+		},
+		{
+			"ShaderMapHash": "92DB5D440BC7F4C2B7511CBD5BFA0FBF9C0B0CCE",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Glass/M_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "D238288B30C3D3FC3F3BF1048160F0ECD100CDF2",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/UnrealButton/M_Button_Transparent"
+			]
+		},
+		{
+			"ShaderMapHash": "254F52C1E7F8588CD5A4B7B07932FC0747AEB267",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Glow/M_Glow",
+				"/Game/AFCore/Examples/Meshes/HandScanner/M_Glow_Master"
+			]
+		},
+		{
+			"ShaderMapHash": "50CE0CB410D0E4EFDDD09BF359FCEE4EF30435A6",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Bomb/Effect/M_flare_01"
+			]
+		},
+		{
+			"ShaderMapHash": "387D452C0355FBE708A38464AA0A04338508573F",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Sliders/M_Slider_Orange",
+				"/Game/AFCore/Examples/Meshes/Levers/M_Lever_Orange",
+				"/Game/AFCore/Examples/Materials/Plastic/M_Plastic",
+				"/Game/AFCore/Examples/Meshes/Radial/M_Button_Radial_Orange"
+			]
+		},
+		{
+			"ShaderMapHash": "6BEF0E9F185DF0A572C441E83FA04241CCFF44DE",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Metal/M_Metal",
+				"/Game/AFCore/Examples/Meshes/Radial/M_Button_Radial_Chrome"
+			]
+		},
+		{
+			"ShaderMapHash": "D8E0EAA2B7A250FA93D837F1ABB542110E1365B1",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Lightbulb/M_Light_Bulb_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "1396B7E6D989B29840DBB3DEAFA4F76A3D49084E",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Spotlight/M_Spotlight_Glass"
+			]
+		},
+		{
+			"ShaderMapHash": "22B6691FF67D649D887750D76F587AFDC407E0FD",
+			"Assets": [
+				"/Engine/EngineMeshes/BackgroundMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "AA3EA2D134376C24C591C375EC4526452BBEA2B1",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/Radial/M_ButtonRadial_Black"
+			]
+		},
+		{
+			"ShaderMapHash": "FED4B2C01FD04D163EAD1C88C5B568DBF2365CD9",
+			"Assets": [
+				"/Engine/BasicShapes/BasicShapeMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "5FCBACA47CA0E22A47DCC1EF4F8CA7DF1033E1FD",
+			"Assets": [
+				"/Game/AFCore/Materials/Level/M_Blue"
+			]
+		},
+		{
+			"ShaderMapHash": "5A3D4C9368BDC4B80D2405771796CA4808046867",
+			"Assets": [
+				"/Game/AFCore/Materials/Level/M_Black_Rough",
+				"/Engine/Tutorial/SubEditors/TutorialAssets/TutorialMaterial"
+			]
+		},
+		{
+			"ShaderMapHash": "7E5E1A627DBE165637336DA8B5B1543BFCBD0DB1",
+			"Assets": [
+				"/Engine/EngineSky/M_SimpleSkyDome"
+			]
+		},
+		{
+			"ShaderMapHash": "9C80A993652EA1785DD97245CE2C455B532D6F43",
+			"Assets": [
+				"/Game/AFCore/Examples/Materials/Plain/M_Plain"
+			]
+		},
+		{
+			"ShaderMapHash": "E0B1C8DAA058201CA98F8D13B0B4A3CBDF752A58",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/HandScanner/M_Decal_Handscanner"
+			]
+		},
+		{
+			"ShaderMapHash": "F958C0FFD7B7F4C45DFC6B2D24515743E751709E",
+			"Assets": [
+				"/Game/AFCore/Examples/Meshes/DemoRoom/Materials/M_Metal"
+			]
+		}
+	]
+}
