@@ -26,10 +26,6 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
-		},
-		{
-			"Name": "MultiUserClient",
-			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
