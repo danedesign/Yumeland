@@ -26,6 +26,10 @@
 		{
 			"Name": "HDRIBackdrop",
 			"Enabled": true
+		},
+		{
+			"Name": "GLTFImporter",
+			"Enabled": true
 		}
 	],
 	"TargetPlatforms": [
